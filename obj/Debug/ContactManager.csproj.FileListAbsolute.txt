@@ -1,0 +1,180 @@
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\ApplicationInsights.config
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\roslyn\csc.exe
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\roslyn\System.Collections.Immutable.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\roslyn\vbc.exe
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\roslyn\VBCSCompiler.exe
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\roslyn\VBCSCompiler.exe.config
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\ContactManager.dll.config
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\ContactManager.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\ContactManager.pdb
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Antlr3.Runtime.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\EntityFramework.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\EntityFramework.SqlServer.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.AI.Web.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.AI.WindowsServer.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.ApplicationInsights.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.Owin.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.Owin.Security.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.Owin.Security.Google.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.Web.Infrastructure.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Newtonsoft.Json.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Owin.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\System.Net.Http.Formatting.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\System.Web.Helpers.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\System.Web.Http.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\System.Web.Http.Owin.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\System.Web.Http.WebHost.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\System.Web.Mvc.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\System.Web.Optimization.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\System.Web.Razor.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\System.Web.WebPages.Deployment.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\System.Web.WebPages.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\System.Web.WebPages.Razor.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\WebGrease.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.AI.Web.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.AI.WindowsServer.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.ApplicationInsights.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Newtonsoft.Json.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\System.Net.Http.Formatting.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\System.Web.Helpers.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\System.Web.Http.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\System.Web.Http.WebHost.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\System.Web.Mvc.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\System.Web.Optimization.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\System.Web.Razor.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\System.Web.WebPages.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\System.Web.WebPages.Deployment.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\System.Web.WebPages.Razor.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Antlr3.Runtime.pdb
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\EntityFramework.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\EntityFramework.SqlServer.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.Owin.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.Owin.Security.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.Owin.Security.Google.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\bin\System.Web.Http.Owin.xml
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\obj\Debug\ContactManager.csprojResolveAssemblyReference.cache
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\obj\Debug\ContactManager.dll
+c:\users\andrew.bright\documents\visual studio 2015\Projects\Begin\ContactManager\obj\Debug\ContactManager.pdb
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\ApplicationInsights.config
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\roslyn\csc.exe
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\roslyn\vbc.exe
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\ContactManager.dll.config
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\ContactManager.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\ContactManager.pdb
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Antlr3.Runtime.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\EntityFramework.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\EntityFramework.SqlServer.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.AI.Web.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.ApplicationInsights.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.Owin.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.Owin.Security.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Newtonsoft.Json.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Owin.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\System.Net.Http.Formatting.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\System.Web.Helpers.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\System.Web.Http.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\System.Web.Http.Owin.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\System.Web.Http.WebHost.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\System.Web.Mvc.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\System.Web.Optimization.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\System.Web.Razor.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\System.Web.WebPages.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\WebGrease.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.AI.Web.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.ApplicationInsights.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Newtonsoft.Json.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\System.Net.Http.Formatting.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\System.Web.Helpers.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\System.Web.Http.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\System.Web.Http.WebHost.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\System.Web.Mvc.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\System.Web.Optimization.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\System.Web.Razor.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\System.Web.WebPages.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Antlr3.Runtime.pdb
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\EntityFramework.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\EntityFramework.SqlServer.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.Owin.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.Owin.Security.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\bin\System.Web.Http.Owin.xml
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\obj\Debug\ContactManager.csprojResolveAssemblyReference.cache
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\obj\Debug\ContactManager.dll
+C:\Users\andrew.bright\Documents\GitHub\Begin\ContactManager\obj\Debug\ContactManager.pdb
